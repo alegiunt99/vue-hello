@@ -8,7 +8,7 @@ const app = new Vue(
     {
         el: '#root',
         data: {
-            testo: 'Sivallettoh',
+            testo: 'Pefforza, deh',
 
             image: 'img/momento-gaming.jpg'
         }
